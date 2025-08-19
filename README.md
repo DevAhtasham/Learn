@@ -1,3 +1,3 @@
 # Learn
 
-Yeah! I'm starting Learning Web Developmet.
+Yeah! I'm starting Learning Web Development.
